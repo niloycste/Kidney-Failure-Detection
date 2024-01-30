@@ -88,3 +88,6 @@ export MLFLOW_TRACKING_PASSWORD=55343c50b515f85d83d1bbecdf5e45f6664231d3
 ## Final Output 
  <img src = "images/normal.png" width="" height="">
   <img src = "images/tumor.png" width="" height="">
+
+
+  [Click here to watch the video](https://youtu.be/G_oyTUV9P10)
